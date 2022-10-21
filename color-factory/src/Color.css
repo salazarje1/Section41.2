@@ -1,0 +1,12 @@
+.Color {
+    margin: 0; 
+    padding: 0; 
+    width: 100vw;
+    height: 100vh; 
+}
+
+.Color-title {
+    padding: 4em; 
+    margin: 0em; 
+    font-size: 5rem;
+}
